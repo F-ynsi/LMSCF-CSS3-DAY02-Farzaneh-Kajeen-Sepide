@@ -119,6 +119,9 @@ p {
 #participation h3 span {
     margin: 0;
     padding: 20px;
+
+}
+#participation{
     background-color: #747C3A;
     color: white;
 }
@@ -246,7 +249,7 @@ h3.archives span {
     color: brown;
     font-weight: bold;
 }
-#philosophy ul > li {
+#philosophy ul  > li {
     color: #525D21;
     font-style: italic;
 }
